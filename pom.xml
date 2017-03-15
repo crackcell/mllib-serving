@@ -5,9 +5,9 @@
     <artifactId>mllib-serving</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>MLlib Serving Project Parent POM</name>
+    <name>MLServing Project Parent POM</name>
     <modules>
-        <module>mllib-local</module>
+        <module>mlserving-core</module>
     </modules>
 
     <properties>
