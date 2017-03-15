@@ -1,2 +1,3 @@
-# mllib-serving
-Serving system for MLlib models
+# mlserving
+
+Serving system for MLlib pipelines.
